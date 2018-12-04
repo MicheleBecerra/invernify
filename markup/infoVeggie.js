@@ -20,7 +20,8 @@ pepino.addEventListener("click", function(event){
         title: 'Pepino',
         text: 'Sabías que La planta del pepino pertenece a la familia botánica de las Cucurbitáceas, igual que la sandía, el melón, el calabacín o zucchini y la calabaza o zapallo. Esta planta anual trepadora parece ser originaria de Asia. Vamos a conocer algunos datos importantes que debemos tener en cuenta a la hora de cultivar pepino en el huerto. ',
         icon: 'https://user-images.githubusercontent.com/39841876/49450307-58b7c000-f7a2-11e8-9f35-f4ceb3dbf06a.png',
-        imageWidth: 50,
-        imageHeight: 50,     
+        imageWidth: 100,
+        imageHeight: 100,     
       });
 });
+
